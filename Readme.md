@@ -1,3 +1,6 @@
+<img width="1914" height="848" alt="Screenshot 2025-12-04 130411" src="https://github.com/user-attachments/assets/032cd69a-dcb8-4a86-9456-be08ddc03657" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/141a0455-6d7b-4898-803c-a48816e3ed55" />
+<img width="1894" height="841" alt="Screenshot 2025-12-04 130436" src="https://github.com/user-attachments/assets/129d1cb2-9bb5-4828-a5c9-d074812d40cf" />
 # Complaint Management System (CMS)
 
 A full‑stack Complaint Management System built with **React (Rolldown setup)** for frontend and **Node.js + Express + MongoDB** for backend. The system manages user complaints, admin workflows, analytics, file uploads, and token‑based authentication.
