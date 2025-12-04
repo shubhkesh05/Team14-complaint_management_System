@@ -1,3 +1,7 @@
+// created and  add full functionality
+
+
+
 const mongoose = require('mongoose');
 const ticketSchema = new mongoose.Schema({
   title: String,
